@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can code.
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ldivz2grilwjus7moi75rxb6pq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ldivz2grilwjus7moi75rxb6pq&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
